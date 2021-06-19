@@ -1,0 +1,16 @@
+header.masthead {
+    background-image: url('../images/img/Family.jpg') !important;
+    padding-top: 40% !important;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+h2,
+h3,
+iframe {
+    padding-left: 10% !important;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+}

@@ -1,0 +1,20 @@
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+}
+
+span {
+    font-style: italic;
+}
+
+.black {
+    color: black !important;
+}
+
+.bold {
+    font-weight: bold !important;
+}
+
+.left {
+    padding-left: 15% !important;
+}
